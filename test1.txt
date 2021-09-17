@@ -1,2 +1,2 @@
-Hola
-Estoy usando git
+Hello
+I'm using git
